@@ -4,7 +4,7 @@ title                    : "Josue Caldas / Personal Website"
 title_separator          : "-"
 name                     : &name "Josue Caldas"
 description              : &description "personal description"
-url                      : https://josuecaldasv.github.io/
+url                      : https://josuecaldasv.github.io
 baseurl                  : "" 
 repository               : "josuecaldasv/josuecaldasv.github.io"
 
