@@ -11,9 +11,8 @@ repository               : "josuecaldasv/josuecaldasv.github.io"
 author:
   avatar           : "profile.png"
   name             : "Josue Caldas"
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Rio de Janeiro"
-  employer         : "Applied Computational Intelligence Laboratory at PUC-Rio"
+  employer         : "ICA PUC-Rio"
   email            : "josue.caldas@pucp.edu.pe" 
 
   # Academic websites
