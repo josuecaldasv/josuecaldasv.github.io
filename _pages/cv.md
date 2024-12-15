@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,8 +13,12 @@ redirect_from:
     font-size: 13px;
     line-height: 1.4;
   }
-  
-  h1, h2, h3, h4 {
+    h1 {
+    color:rgb(21, 21, 21);
+    font-weight: bold;
+    margin-bottom: 0.5em;
+  }
+  h2, h3, h4 {
     color: #1a5276;
     font-weight: bold;
     margin-bottom: 0.5em;
@@ -71,7 +74,10 @@ redirect_from:
     padding-bottom: 0.2em;
     margin-bottom: 0.8em;
   }
-
+  .education-entry .university {
+    color: #1a5276;
+    font-weight: bold;
+  }
   .publication-entry, .work-entry, .teaching-entry, .skills-container, .certification-entry, .course-entry {
     margin-bottom: 1.5em;
   }
@@ -101,25 +107,32 @@ redirect_from:
 # Education
 ------
 
-**Pontifical Catholic University of Rio de Janeiro**  
-*Postgraduate Course in Computer Vision*  
-*Coursework*: Advanced Tools for Image Classification, Digital Image Processing, Object Detection in Images and Video  
-<small><em>Rio de Janeiro, Brazil | 2024-Present</em></small>
+<div class="education-entry">
+  <p><span class="university">Pontifical Catholic University of Rio de Janeiro</span><br>
+  <em>Postgraduate Course in Computer Vision</em><br>
+  <strong>Coursework:</strong> Advanced Tools for Image Classification, Digital Image Processing, Object Detection in Images and Video<br>
+  <small><em>Rio de Janeiro, Brazil | 2024-Present</em></small></p>
+</div>
 
 <hr>
 
-**Pontifical Catholic University of Peru**  
-*Diploma of Specialization in Data Science*  
-*Coursework*: Python and R Programming, Machine Learning, Deep Learning, Applied Microeconometrics, Big Data Analytics  
-<small><em>Lima, Peru | 2022-2023</em></small>
+<div class="education-entry">
+  <p><span class="university">Pontifical Catholic University of Peru</span><br>
+  <em>Diploma of Specialization in Data Science</em><br>
+  <strong>Coursework:</strong> Python and R Programming, Machine Learning, Deep Learning, Applied Microeconometrics, Big Data Analytics<br>
+  <small><em>Lima, Peru | 2022-2023</em></small></p>
+</div>
 
 <hr>
 
-**Pontifical Catholic University of Peru**  
-*B.A. & Licentiate in Political Science*  
-Ranked in the top 15% of my class  
-Licentiate with honors: Thesis unanimously approved with "Outstanding Mention"  
-<small><em>Lima, Peru | 2018-2023</em></small>
+<div class="education-entry">
+  <p><span class="university">Pontifical Catholic University of Peru</span><br>
+  <em>B.A. & Licentiate in Political Science</em><br>
+  Ranked in the top 15% of my class<br>
+  Licentiate with honors: Thesis unanimously approved with "Outstanding Mention"<br>
+  <small><em>Lima, Peru | 2018-2023</em></small></p>
+</div>
+
 
 
 # Publications
