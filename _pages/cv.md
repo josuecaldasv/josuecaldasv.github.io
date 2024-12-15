@@ -10,7 +10,7 @@ redirect_from:
   body {
     font-family: sans-serif;
     color: #000;
-    font-size: 13px;
+    /* font-size: 13px; */
     line-height: 1.4;
   }
     h1 {
@@ -25,27 +25,27 @@ redirect_from:
   }
 
   h1 {
-    font-size: 1.6em;
+    /* font-size: 1.6em; */
     margin-top: 1em;
   }
 
   h2 {
-    font-size: 1.4em;
+    /* font-size: 1.4em; */
     margin-top: 1.2em;
   }
 
   h3 {
-    font-size: 1.2em;
+    /* font-size: 1.2em; */
     margin-top: 1em;
   }
 
   h4 {
-    font-size: 1.1em;
+    /* font-size: 1.1em; */
     margin-top: 0.8em;
   }
 
   p, li {
-    font-size: 0.9em;
+    /* font-size: 0.9em; */
     margin-bottom: 0.5em;
   }
 
@@ -91,7 +91,7 @@ redirect_from:
     margin-bottom: 0.8em;
   }
   small {
-    font-size: 0.8em;
+    /* font-size: 0.8em; */
   }
   .skills-container {
     display: flex;
