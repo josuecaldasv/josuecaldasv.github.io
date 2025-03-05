@@ -126,10 +126,18 @@ redirect_from:
 <hr>
 
 <div class="education-entry">
+  <p><span class="university">National Institute of Statistics and Informatics (Peru)</span><br>
+  <em>Applied Statistics Specialization</em><br>
+  <strong>Coursework:</strong> Regression Models, Multivariate Analysis, Sampling, Experimental Desgins<br>
+  <small><em>Lima, Peru | 2022</em></small></p>
+</div>
+
+<hr>
+
+<div class="education-entry">
   <p><span class="university">Pontifical Catholic University of Peru</span><br>
-  <em>B.A. & Licentiate in Political Science</em><br>
-  Ranked in the top 15% of my class<br>
-  Licentiate with honors: Thesis unanimously approved with "Outstanding Mention"<br>
+  <em>B.A. in Political Science</em><br>
+  Concentration Area: Public Management and Public Policy<br>
   <small><em>Lima, Peru | 2018-2023</em></small></p>
 </div>
 
@@ -143,18 +151,36 @@ redirect_from:
   <a href="https://doi.org/10.18800/educacion.202401.M003" target="_blank">https://doi.org/10.18800/educacion.202401.M003</a></p>
 </div>
 
+<div class="publication-entry">
+  <p><strong>Caldas, J. (2023)</strong>. Challenges to the State, enforcement, and legitimacy: The case of smuggling in the department of Puno. [Bachelor’s thesis, Pontifical Catholic University
+of Peru].
+  <a href="http://hdl.handle.net/20.500.12404/26754" target="_blank">Institutional Repository of the Pontifical Catholic University of Peru</a></p>
+</div>
+
 
 # Work Experience
 ------
 
 <div class="work-entry">
   <h3>Applied Computational Intelligence Laboratory at PUC Rio</h3>
-  <p><strong>Software Developer and Researcher</strong> | <em>Rio de Janeiro, Brazil | May 2024 - Present</em></p>
+  <p><strong>Software Developer and Researcher</strong> | <em>Rio de Janeiro, Brazil (In Person) | May 2024 - Present</em></p>
   <ul>
-    <li>Conducting research on integrating extractive and generative language models into RAG systems, using HPC for fine-tuning state-of-the-art NLP models.</li>
-    <li>Developing cloud-based communication systems (Kafka, Azure, Oracle) and implementing testing frameworks and documentation.</li>
-    <li>Contributing to chatbot development for PUC-Rio, including RAG functionalities, OpenAI model fine-tuning, performance evaluation, and synthetic text generation.</li>
-    <li>Building a Knowledge Management Platform for patent metadata extraction and graph-based citation relationship analysis.</li>
+    <li>Participating in the Big Anchoring project, developing cloud‑based communication systems, integrating technologies such as Kafka, AWS, Azure, and Oracle databases. Responsible for implementing software testing frameworks and documentation.</li>
+    <li>Conducting research in the Tornado project, focusing on the integration of extractive and generative language models into Retrieval‑Augmented Generation (RAG) systems. Leveraging High‑Performance Computing (HPC) environments to perform fine‑tuning and transfer learning on state‑of‑the‑art NLP models.</li>
+    <li>Contributing to the development of a chatbot for PUC‑Rio, implementing RAG functionalities, performing fine‑tuning of OpenAI and Hugging Face Language Models, conducting performance evaluation tests, and building synthetic text generation systems.</li>
+    <li>Developing a Knowledge Management Platform, responsible for extracting metadata and patent information from servers such as Espacenet, and analyzing and structuring citation relationships between patents using graph representations.</li>
+  </ul>
+</div>
+
+<div class="work-entry">
+  <h3>International Labour Organization</h3>
+  <p><strong>Assistant Software Developer</strong> | <em>Lima, Peru (Remote) | January 2024 - December 2024</em></p>
+  <ul>
+    <li>Developed interactive web‑based interfaces using the Streamlit framework to enable the registration and validation of new RSS news sources.</li>
+    <li>Implemented a web scraping system capable of collecting key visibility and impact metrics from various online news platforms.
+    </li>
+    <li>Designed a series of dynamic and static content templates for automated HTML‑based newsletters.</li>
+    <li>Integrated these components as part of the consultancy project Automated System for News Collection and Classification using AI.</li>
   </ul>
 </div>
 
@@ -162,27 +188,21 @@ redirect_from:
   <h3>Inter-American Development Bank</h3>
   <p><strong>Data Analysis Consultant</strong> | <em>Lima, Peru | January 2024 - February 2024</em></p>
   <ul>
-    <li>Executed web scraping to collect educational background data for participants in teaching recruitment competitions.</li>
-    <li>Organized data into a structured format compatible with existing databases.</li>
-    <li>Validated data with complementary databases (SUNAT, RENIEC) for accuracy.</li>
+    <li>Utilized advanced web scraping techniques, including Optical Character Recognition (OCR) technologies, to extract detailed information on the educational background of participants in Peru’s teaching recruitment competitions from the National Superintendence of Higher University Education (SUNEDU).</li>
+    <li>Successfully web scraped and processed information from over 600,000 teachers, organizing the data into a structured format compatible with the existing database for teacher recruitment competitions.</li>
+    <li>This work was carried out within the framework of the project PE‑T1447: New Technologies to Improve Equity and Efficiency in Teacher Assignment in Peru.</li>
   </ul>
 </div>
 
-<div class="work-entry">
-  <h3>Pontifical Catholic University of Peru</h3>
-  <p><strong>Research Assistant to Prof. Alexander Quispe (World Bank)</strong> | <em>Lima, Peru | September 2023 - December 2023</em></p>
-  <ul>
-    <li>Collaborated on modeling the forgetting curve with Duolingo data, assisting in developing and replicating logistic and half-life regression models.</li>
-  </ul>
-</div>
 
 <div class="work-entry">
   <h3>Artificial Intelligence and Computational Methods Laboratory at PUCP</h3>
   <p><strong>Research Assistant</strong> | <em>Lima, Peru | May 2022 - December 2023</em></p>
   <ul>
-    <li>Led and contributed to a Machine Learning Manual for Social Sciences, covering key ML topics and applications.</li>
-    <li>Developed ML classification models to predict corruption likelihood in Peruvian subnational entities.</li>
-    <li>Created tools for data extraction and analysis: web scraping, PDF text retrieval, API data access, and geospatial data analysis.</li>
+    <li>Built and maintained the ”Corruption 2018‑2023” database by integrating multiple Peruvian public sector data sources (SIAF, RENAMU, Comptroller’s Office), implementing NLP techniques for PDF text extraction, and processing datasets using Stata.</li>
+    <li>Developed machine learning classification models to predict corruption likelihood in Peruvian subnational entities utilizing the constructed ”Corruption 2016‑2020” database.</li>
+    <li>Led and contributed to the development of a Machine Learning Manual applied to Social Sciences, providing a comprehensive overview of key Machine Learning topics and their applications in social science research.</li>
+    <li>Created tools and techniques for data extraction and analysis, including web scraping, text information retrieval from PDF documents, accessing data via APIs, and performing geospatial data analysis.</li>
   </ul>
 </div>
 
@@ -221,7 +241,7 @@ redirect_from:
 
   <div class="skill-category">
     <h4>Technologies</h4>
-    <p>Power BI, Azure, Neo4J, Oracle, MongoDB, Docker, TensorFlow, Scikit-learn, LangChain, Pytesseract, FastAPI, Kafka</p>
+    <p>PAWS, Azure, ower BI, Neo4J, Oracle, MongoDB, Docker, TensorFlow, Scikit-learn, LangChain, Pytesseract, FastAPI, Kafka</p>
   </div>
 
   <div class="skill-category">
@@ -238,21 +258,21 @@ redirect_from:
 <div class="certification-entry">
 
   <div class="certification-item">
-    <h4>IB Bilingual Diploma (English and Spanish)</h4>
-    <p><strong>Score:</strong> 39/45</p>
-    <p><em>International Baccalaureate Organization | 2018</em></p>
-  </div>
-
-  <div class="certification-item">
-    <h4>Duolingo English Test</h4>
-    <p><strong>Score:</strong> 130/160</p>
-    <p><em>Duolingo | 2024</em></p>
+    <h4>TOEFL iBT</h4>
+    <p><strong>Score:</strong> 102/120</p>
+    <p><em>Educational Testing System | 2025</em></p>
   </div>
 
   <div class="certification-item">
     <h4>R Programming</h4>
     <p><strong>Level:</strong> Intermediate</p>
     <p><em>Pontifical Catholic University of Peru | 2022</em></p>
+  </div>
+
+  <div class="certification-item">
+    <h4>IB Bilingual Diploma (English and Spanish)</h4>
+    <p><strong>Score:</strong> 39/45</p>
+    <p><em>International Baccalaureate Organization | 2018</em></p>
   </div>
 
 </div>
@@ -263,11 +283,6 @@ redirect_from:
 
 <div class="course-entry">
 
-  <div class="course-item">
-    <h4>Applied Statistics Specialization</h4>
-    <p><strong>Hours:</strong> 180 hours</p>
-    <p><em>National Institute of Statistics and Informatics (Peru) | 2022</em></p>
-  </div>
 
   <div class="course-item">
     <h4>Power BI Specialization</h4>

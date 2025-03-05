@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Science News Chatbot"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/chatbot.PNG'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I developed this chatbot based on information from over 800 science news articles collected in Petrobras' Competitive Intelligence Bulletin. The chatbot uses Retrieval-Augmented Generation (RAG). Users can ask science-related questions, and the chatbot will provide answers based on the available information. Additionally, it does not just generate responses but also cites the sources from which the information is extracted. The repository is available at the following: <u>[link](https://github.com/josuecaldasv/ChatBot_Newsletter)</u>

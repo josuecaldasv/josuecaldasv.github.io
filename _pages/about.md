@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor's in Political Science from the Pontifical Catholic University of Peru, with a specialization in Data Science from the same institution. Currently pursuing a postgraduate course in Computer Vision at the Pontifical Catholic University of Rio de Janeiro. Over two years of experience in data analysis, and research in Machine Learning, Deep Learning, and Natural Language Processing (NLP), alongside software development. Strong interest in applying NLP and advanced machine learning techniques to social science research.
+Political Scientist specialized in Data Science with experience in data analysis, statistical modeling, and research in Machine Learning and NLP. Proficient in managing complex datasets using Python, Stata, and R, and developing data-driven tools and solutions. Strong background in collaborating with multidisciplinary teams on academic and institutional projects.
